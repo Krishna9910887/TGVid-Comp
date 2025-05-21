@@ -17,7 +17,7 @@ class Config(object):
     DB_NAME  = os.environ.get("DB_NAME","XIAO_BOTS") 
 
     # Other Configs 
-    ADMIN = int(os.environ.get("ADMIN", "7843827046")) # ⚠️ Required
+    ADMIN = int(os.environ.get("ADMIN", "7660990923")) # ⚠️ Required
     LOG_CHANNEL = int(os.environ.get('LOG_CHANNEL', '-1002557745794')) # ⚠️ Required
     BOT_UPTIME = BOT_UPTIME  = time.time()
     START_PIC = os.environ.get("START_PIC", "https://files.catbox.moe/2uiu0q.jpg")
