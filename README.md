@@ -23,7 +23,7 @@
 
 `Heroku`
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MysteryDemon/TGVid-Comp/)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)]()
 
 
 ## Commands
@@ -65,6 +65,6 @@ variables for indirectly deployment.
 
 # Support Us By Joining Our Channels
 
-`Updates Channel` - [Rokubotz](https://t.me/Rokubotz)
+`Updates Channel` - [SECRECT_BOT_UPDATES](https://t.me/SECRECT_BOT_UPDATES)
 
-`Support Group` - [Team Roku](https://t.me/Team_Roku)
+`Support Group` - [SECRECT_BOT_UPDATES](https://t.me/SECRECT_BOT_UPDATES)
